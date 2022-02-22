@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+.container{
+    background: gray;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.menu{
+    text-align: right;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu li a{
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.gambar img{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    border-top: 5px solid lightcoral;
+    border-bottom: 5px solid lightskyblue;
+}
+
+
+.blog{
+    text-align: justify;
+    padding: 10px;
+}
+
+.akhir{
+    text-align: center;
+    background: red;
+    padding: 5px;
+}
